@@ -44,15 +44,15 @@ To use Webstorm
 7. To edit an existing file, double-click on it in the navigation pane.
 8. To write and run code, write your code in the editor, then right click on an HTML file or any other entry point and select "Run".
 
-**Branch** - A separate line of development in a Git repository that allows you to work on new features without affecting the main codebase.
-**Clone** - Creating a copy of a Git repository on your local machine.
-**Commit** - A snapshot of the changes made to files in a Git repository. It's a method of saving changes and adding them to the Git history.
-**Fetch** - Retrieving changes from a remote repository without merging them into your local branch.
-**GIT** - A distributed version control system that allows multiple people to work on a project simultaneously and independently.
-**Github** - Combining changes from branches into each other.
-**Merge** - 
-**Merge Conflict** - When two branches have conflicting data that requires manual intervention to resolve to prevent loss of data.
-**Push** - Sending local commits to a remote repository.
-**Pull** - Fetching and merging changes from a remote repository into your current branch, combining "fetch" and "merge".
-**Remote** - A copy of a Git repository stored on another sever used to collaborate with others.
-**Repository** - A data structure that stores a project's files and their complete history.
+1. **Branch** - A separate line of development in a Git repository that allows you to work on new features without affecting the main codebase.
+2. **Clone** - Creating a copy of a Git repository on your local machine.
+3. **Commit** - A snapshot of the changes made to files in a Git repository. It's a method of saving changes and adding them to the Git history.
+4. **Fetch** - Retrieving changes from a remote repository without merging them into your local branch.
+5. **GIT** - A distributed version control system that allows multiple people to work on a project simultaneously and independently.
+6. **Github** - A web-based platform for hosting, collaborating on, and sharing Git repositories.
+7. **Merge** - Combining changes from branches into each other.
+8. **Merge Conflict** - When two branches have conflicting data that requires manual intervention to resolve to prevent loss of data.
+9. **Push** - Sending local commits to a remote repository.
+10. **Pull** - Fetching and merging changes from a remote repository into your current branch, combining "fetch" and "merge".
+11. **Remote** - A copy of a Git repository stored on another sever used to collaborate with others.
+12. **Repository** - A data structure that stores a project's files and their complete history.
